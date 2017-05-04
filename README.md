@@ -10,7 +10,7 @@ Furni was presented on stage by [Bear Douglas](https://twitter.com/beardigsit) a
 
 Furni is a canonical sample iOS app created with [Fabric](https://get.fabric.io/), the tools you need to build the best apps.
 
-The goal of Furni is to demonstrate how to build great apps using the Fabric platform, not only with the Fabric Kits provided by Twitter, but also with the tremendously valuable mobile SDKs from our including [Stripe](https://stripe.com/), [Optimizely](https://www.optimizely.com/) and [Amazon Cognito Sync](https://aws.amazon.com/cognito/).
+The goal of Furni is to demonstrate how to build great apps using the Fabric platform, not only with the Fabric Kits provided by Twitter, but also with the tremendously valuable mobile SDKs from our partners including [Stripe](https://stripe.com/), [Optimizely](https://www.optimizely.com/) and [Amazon Cognito Sync](https://aws.amazon.com/cognito/).
 
 ## Getting Started
 
